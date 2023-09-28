@@ -17,6 +17,6 @@ o ============== o ============= o<br>
 : 1<br>
 Enter your word: Furkan<br>
 
- 2
+ 2<br>
 To continue press any button except 'e'`
 
