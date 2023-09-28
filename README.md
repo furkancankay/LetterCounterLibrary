@@ -1,4 +1,4 @@
-# 👴 Letter Counter 👦
+# ∑ Letter Counter ∑
 
 This project was developed for fun. :)
 
