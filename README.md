@@ -1,6 +1,6 @@
-# ∑ Letter Counter ∑
+# ➕ Letter Counter ➕
 
-This project was developed for fun. :)
+This project was developed for my improving. :)
 
 In this project, it was aimed to turn a simple function into a library.
 
